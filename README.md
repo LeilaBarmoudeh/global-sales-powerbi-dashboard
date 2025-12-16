@@ -1,4 +1,4 @@
-# global-sales-powerbi-dashboard
+# global-sales-power bi-dashboard
  Power BI dashboard analyzing global sales performanc
 
 # Project Overview
