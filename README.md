@@ -40,3 +40,6 @@ Total Profit = SUM(Sales[Profit])
 
 # Business Value
 This dashboard enables stakeholders to quickly identify performance trends, monitor key metrics, and make informed decisions to improve sales strategies and overall business performance.
+
+![sales_powerBI](https://github.com/user-attachments/assets/5ad4ec98-e82f-4779-9635-ccec5e6ac917)
+
