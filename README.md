@@ -32,6 +32,12 @@ The goal of this project is to provide a clear overview of sales performance acr
 - Total Quantity Sold
 - Profit Margin %
 
+
+
+![sales_powerBI](https://github.com/user-attachments/assets/a40fd002-3344-4bc6-a566-4f33669f2989)
+
+
+
 # Sample DAX Measures
 ```DAX
 Total Sales = SUM(Sales[Sales])
@@ -41,5 +47,5 @@ Total Profit = SUM(Sales[Profit])
 # Business Value
 This dashboard enables stakeholders to quickly identify performance trends, monitor key metrics, and make informed decisions to improve sales strategies and overall business performance.
 
-![sales_powerBI](https://github.com/user-attachments/assets/5ad4ec98-e82f-4779-9635-ccec5e6ac917)
+
 
