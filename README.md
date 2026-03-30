@@ -7,11 +7,11 @@ This project presents an interactive Power BI dashboard designed to analyze glob
 The goal of this project is to provide a clear overview of sales performance across products, regions, and customer segments, and to identify opportunities for improving profitability and optimizing business strategies.
 
 # Key Insights
--Identified top-performing product categories and sub-categories driving revenue
--Highlighted geographic regions contributing most to sales and profit
--Analyzed customer segments to understand revenue distribution
--Tracked sales and profit trends over time to identify growth patterns
--Evaluated profitability across products and segments
+- Identified top-performing product categories and sub-categories driving revenue.
+- Highlighted geographic regions contributing most to sales and profit.
+- Analyzed customer segments to understand revenue distribution.
+- Tracked sales and profit trends over time to identify growth patterns.
+- Evaluated profitability across products and segments.
 
 # Business Questions Answered
 - What is the total sales and profit performance?
